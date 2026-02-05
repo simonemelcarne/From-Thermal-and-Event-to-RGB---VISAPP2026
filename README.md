@@ -95,8 +95,8 @@ To reproduce our results, set up the dataset following the structure below. The 
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/simonemelc/From-Thermal-and-Event-to-RGB---VISAPP2026.git)
+cd From-Thermal-and-Event-to-RGB---VISAPP2026
 ```
 
 2. **Create and activate the environment**

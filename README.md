@@ -51,8 +51,7 @@ To reproduce our results, set up the dataset following the structure below. The 
    Required folders: `lwir` (Thermal) and `visible` (RGB) for the day sets (`set01`, `set02`, `set06`, `set07`, `set08`).
 
 2. **Event Data (Voxel Grids):**
-   Download the pre-processed voxel grids (`.npy` files):
-   **[INSERT LINK TO YOUR VOXEL DATA HERE]**
+   Download the pre-processed voxel grids (`.npy` files): [https://drive.google.com/drive/folders/166ryhE9youPjSJ_4LXuUZID-tFhyTvRo?usp=sharing](https://drive.google.com/drive/folders/166ryhE9youPjSJ_4LXuUZID-tFhyTvRo?usp=sharing)
    Generated using the V2E simulator: [https://github.com/SensorsINI/v2e](https://github.com/SensorsINI/v2e)
 
 ### 2. Folder Structure
@@ -104,7 +103,7 @@ pip install -r requirements.txt
 ```
 
 4. **Download pre-trained model**
-    1. Download from [https://github.com/SoonminHwang/rgbt-ped-detection](https://github.com/SoonminHwang/rgbt-ped-detection)
+    1. Download from [https://drive.google.com/drive/folders/16DmPu3GJdZXEYZRSKZbS7-5eYjhYm_08?usp=sharing](https://drive.google.com/drive/folders/16DmPu3GJdZXEYZRSKZbS7-5eYjhYm_08?usp=sharing)
     2. Place it in:
 
 ```bash

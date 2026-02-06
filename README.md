@@ -26,8 +26,8 @@ This paper has been accepted for publication at the **21st International Confere
 
 Our method leverages the complementary nature of two modalities to reconstruct a standard RGB-like image ($I \in \mathbb{R}^{3 \times H \times W}$):
 
-1. **Thermal Input ($T$):** Provides semantic layout and object presence (processed by a ResNet-style encoder).
-2. **Event Input ($E$):** A voxel grid of events that offers sharp edge and motion cues (processed by a 3D-Conv head + ResNet encoder).
+1. **Thermal Input ($T$):** Provides semantic layout and object presence.
+2. **Event Input ($E$):** A voxel grid of events that offers sharp edge and motion cues.
 
 ### Key Components
 

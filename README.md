@@ -86,7 +86,7 @@ To reproduce our results, set up the dataset following the structure below. The 
 
 ```bash
 git clone https://github.com/simonemelc/THEVNet.git
-cd From-Thermal-and-Event-to-RGB---VISAPP2026
+cd THEVNet
 ```
 
 2. **Create and activate the environment**
